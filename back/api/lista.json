@@ -1,0 +1,28 @@
+{
+    "productos":[
+        {
+            "id":1,
+            "name":"aceite",
+            "marca":"cocinero",
+            "img":"https://png.pngtree.com/element_our/20200609/ourlarge/pngtree-cereal-oil-soybean-oil-image_2231474.jpg"
+        },
+        {
+            "id":2,
+            "name":"azucar",
+            "marca":"ledesma",
+            "img":"https://dgmmateriasprimas.com.ar/wp-content/uploads/2021/02/AZUCAR-IMPALPABLE-PRINDAL-BOLSA-X-10-KG-scaled.jpg"
+        },
+        {
+            "id":3,
+            "name":"shampoo",
+            "marca":"shoulder",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Head_%26_Shoulders_shampoo_bottle.jpg/681px-Head_%26_Shoulders_shampoo_bottle.jpg"
+        },
+        {
+            "id":4,
+            "name":"shampoo",
+            "marca":"loreal",
+            "img":"https://www.casaflorian.com.ar/wp-content/uploads/2022/11/012-658-01_A.jpg"
+        }
+    ]
+}
